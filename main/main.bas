@@ -7,8 +7,8 @@
 'By : AliNazarZadeh 
 '===========================================================
 
-$regfile = "m328pdef.dat"
-$crystal = 16000000
+$regfile = "m2560pdef.dat"
+$crystal = 8000000
 
 Config Serialout = Buffered , Baud = 9600
 
