@@ -4,10 +4,10 @@
 '   | | (_| |   <| |  | | (_) | |  _  | (_| (_) |
 '   |_|\__,_|_|\_\_|  |_|\___// | (_)  \___\___/ 
 '                           |__/                 
-'By : AliNazarZadeh 
+'By : Dr.AliNazarZadeh 
 '===========================================================
 
-$regfile = "m2560pdef.dat"
+$regfile = "m2560def.dat"
 $crystal = 8000000
 
 Config Serialout = Buffered , Baud = 9600
